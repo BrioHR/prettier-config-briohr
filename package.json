@@ -1,0 +1,24 @@
+{
+  "name": "@briohr/prettier-config-briohr",
+  "version": "1.0.0",
+  "description": "Prettier config for the teams working on BrioHR.",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrioHR/prettier-config-briohr.git"
+  },
+  "keywords": [
+    "prettier",
+    "config",
+    "BrioHR"
+  ],
+  "author": "BrioHR Innovation Inc.",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/BrioHR/prettier-config-briohr/issues"
+  },
+  "homepage": "https://github.com/BrioHR/prettier-config-briohr#readme",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  }
+}
